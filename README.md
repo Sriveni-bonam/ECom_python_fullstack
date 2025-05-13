@@ -51,14 +51,15 @@ This project is a **Django-based E-commerce Website** designed to offer a seamle
 
 ```bash
 python manage.py runserver
-
+```
 ---
 ## 📸 RESULTS
 
 ### 🏠 Home Page
 ![Home Page](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/697cb69bcdb0ebe62d6231e2ec7b8eabe1fa380b/Results/Home%20page.png)
+
 ### 🛍️ Products View
-![Products 1](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/697cb69bcdb0ebe62d6231e2ec7b8eabe1fa380b/Results/Products1.png)
+![Products 1](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/697cb69bcdb0ebe62d6231e2ec7b8eabe1fa380b/Results/Products1.png)  
 ![Products 2](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/697cb69bcdb0ebe62d6231e2ec7b8eabe1fa380b/Results/Products2.png)
 
 ### ❤️ View
@@ -75,4 +76,3 @@ python manage.py runserver
 
 ### 🔰 Brands Section
 ![Brands](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/a3e975ec1ea02c5dec0cc204d37cb8c5559bd5eb/Results/Brands.png)
-

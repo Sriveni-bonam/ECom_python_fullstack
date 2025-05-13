@@ -75,4 +75,4 @@ python manage.py runserver
 ![FAQ](Results/FAQ.png)
 
 ### 🔰 Brands Section
-![Brands](Results/Brands.png)
+![Brands]([Results/Brands.png](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/a3e975ec1ea02c5dec0cc204d37cb8c5559bd5eb/Results/Brands.png))

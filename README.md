@@ -51,3 +51,28 @@ This project is a **Django-based E-commerce Website** designed to offer a seamle
 
 ```bash
 python manage.py runserver
+
+---
+## 📸 RESULTS
+
+### 🏠 Home Page
+![Home Page](Results/Home%20page.png)
+
+### 🛍️ Products View
+![Products 1](Results/Products1.png)
+![Products 2](Results/Products2.png)
+
+### ❤️ View
+![View](Results/View.png)
+
+### 🛒 Cart
+![Cart](Results/Cart.png)
+
+### 💳 PayPal Integration
+![PayPal](Results/paypal.png)
+
+### 🧾 FAQ Page
+![FAQ](Results/FAQ.png)
+
+### 🔰 Brands Section
+![Brands](Results/Brands.png)

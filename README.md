@@ -56,23 +56,23 @@ python manage.py runserver
 ## 📸 RESULTS
 
 ### 🏠 Home Page
-![Home Page](Results/Home%20page.png)
+![Home Page](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/697cb69bcdb0ebe62d6231e2ec7b8eabe1fa380b/Results/Home%20page.png)
 
 ### 🛍️ Products View
-![Products 1](Results/Products1.png)
-![Products 2](Results/Products2.png)
+![Products 1](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/697cb69bcdb0ebe62d6231e2ec7b8eabe1fa380b/Results/Products1.png)
+![Products 2](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/697cb69bcdb0ebe62d6231e2ec7b8eabe1fa380b/Results/Products2.png)
 
 ### ❤️ View
-![View](Results/View.png)
+![View](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/697cb69bcdb0ebe62d6231e2ec7b8eabe1fa380b/Results/View.png)
 
 ### 🛒 Cart
-![Cart](Results/Cart.png)
+![Cart](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/697cb69bcdb0ebe62d6231e2ec7b8eabe1fa380b/Results/Cart.png)
 
 ### 💳 PayPal Integration
-![PayPal](Results/paypal.png)
+![PayPal](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/697cb69bcdb0ebe62d6231e2ec7b8eabe1fa380b/Results/paypal.png)
 
 ### 🧾 FAQ Page
-![FAQ](Results/FAQ.png)
+![FAQ](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/697cb69bcdb0ebe62d6231e2ec7b8eabe1fa380b/Results/FAQ.png)
 
 ### 🔰 Brands Section
-![Brands]([Results/Brands.png](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/a3e975ec1ea02c5dec0cc204d37cb8c5559bd5eb/Results/Brands.png))
+![Brands](https://github.com/Sriveni-bonam/ECom_python_fullstack/blob/a3e975ec1ea02c5dec0cc204d37cb8c5559bd5eb/Results/Brands.png)
